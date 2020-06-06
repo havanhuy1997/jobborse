@@ -1,0 +1,4 @@
+*pyc
+media/*
+!media/output.xlsx
+__pycache__
